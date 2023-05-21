@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a fully functional website which I am building to display my blogs. Apart from being a programmer I am also a writer. I am going to share my write-ups on different themes with the world through this React Application.
+In Progress:This is a fully functional website which I am building to display my blogs. Apart from being a programmer I am also a writer. I am going to share my write-ups on different themes with the world through this React Application.
 
 ## Demo
 
